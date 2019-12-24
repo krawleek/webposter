@@ -1,0 +1,213 @@
+body{
+	
+	height: 100%;
+        margin: 0;
+        padding: 0;
+  overflow-x: hidden;
+		background-color: #f1f1f1;	
+}
+h1,h2,h3,h4{
+	margin: 0;
+}
+
+.stat{
+ width: 100%;
+ height: 100vh;
+}
+.containe-1 {display: grid;}
+.containe-1 {grid-template-columns: repeat(3, 1fr);
+grid-gap: 1em;
+grid-auto-rows: 100px;
+width: 100%;
+height: 38.5%;
+ margin: 0 0px;
+ vertical-align: bottom;
+   border: 0px solid #000;
+  background: url("../img/higline.png") center 
+  no-repeat;
+  background-size: cover;
+}
+
+ .containe-2 {display: grid;}
+.containe-2{grid-template-columns: repeat(3, 1fr);
+background-color: #f1f1f1;
+grid-gap: 1em;
+grid-auto-rows: 100px;
+width: 100%;
+ height: 70%;
+ margin: 0 0px;
+ vertical-align: bottom;
+ text-align: sub;
+ background: url("../img/snowflake.png")  no-repeat 0% -200%;
+  border: 0px solid #000;
+  text-align: center;
+
+}
+ .containe-3 {display: grid;}
+.containe-3 {grid-template-columns: repeat(3, 1fr);
+background-color: #f1f1f1;
+grid-gap: 1em;
+grid-auto-rows: 100px;
+width: 100%;
+ height: 60%;
+ margin: 0 0px;
+ vertical-align: bottom;
+ text-align: sub;
+ background: url("../img/eternity.png")  no-repeat 100% 50%;
+  border: 0px solid #000;
+}
+  .containe-4 {display: grid;}
+.containe-4 {grid-template-columns: repeat(3, 1fr);
+background-color: #f1f1f1;
+grid-gap: 1em;
+grid-auto-rows: 100px;
+width: 100%;
+ height: 70%;
+ max-height: 70%;
+min-height: 30%;
+ margin: 0 0px;
+ vertical-align: bottom;
+ text-align: sub;
+ background: url("../img/techlines.png")  no-repeat 0% 50%;
+  border: 0px solid #000;
+}
+ .containe-5 {display: grid;}
+.containe-5{grid-template-columns: repeat(3, 1fr);
+background-color: #f1f1f1;
+grid-gap: 1em;
+grid-auto-rows: 100px;
+width: 100%;
+ height: 38.5%;
+ margin: 0 0px;
+ vertical-align: bottom;
+ text-align: sub;
+ background: url("../img/lowline.png") center 
+  no-repeat;
+  background-size: cover;
+   border: 0px solid #000;
+}
+
+
+
+.logo1{
+font-style: normal;
+font-weight: 3000;
+font-size: 500%;
+line-height: 2;
+font-family: 'NeueMachina-Regular';
+line-height: 80.6%;
+text-align: left;
+letter-spacing: -0.03em;
+color: #383f67;
+}
+
+.logo11{
+font-style: normal;
+font-weight: 3000;
+font-size: 500%;
+line-height: 2;
+font-family: 'NeueMachina-Regular';
+color: #383f67;
+line-height: 80.6%;
+text-align: left;
+letter-spacing: -0.03em;
+}
+
+.logo1dv{display: grid;}
+.logo1dv{
+width: 100%;
+height: 20%;
+ vertical-align: bottom;    
+}
+
+
+
+.logo2{
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 1000;
+font-size: 260%;
+line-height: 80.6%;
+padding-top: 20px;
+}
+.logo22{
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 1000;
+font-size: 260%;
+line-height: 100.6%;
+
+
+}
+
+
+.ceis1{
+	 width: 150%;
+	 height: 400px;
+	   border: 0px solid #000;
+	  line-height: 0;	
+padding-left: 100px;
+}
+
+.ceis2{
+	 width: 150%;
+	 height: 400px;
+	   border: 0px solid #000;
+	  
+padding-left: 100px;
+}
+
+.ceis3{
+	 width: 100%;
+	 height: 300px;
+	   border: 0px solid #000;
+	   text-align: center;
+	  
+padding-left: 100px;
+}
+
+.logo14{
+font-style: normal;
+font-weight: 3000;
+font-size: 1400%;
+line-height: 2;
+font-family: 'NeueMachina-Ultrabold';
+
+line-height: 80.6%;
+text-align: center;
+letter-spacing: -0.03em;
+}
+.logo13{
+font-style: normal;
+font-weight: 3000;
+font-size: 500%;
+line-height: 2;
+font-family: 'NeueMachina-Ultrabold';
+
+line-height: 80.6%;
+text-align: center;
+letter-spacing: -0.03em;
+}
+.txtfin
+{
+	font-family: 'NeueMachina-Light';
+	font-size: 330%;
+	padding-left: 250px;
+	width: 200%;
+	border: 0px solid #000;
+}
+.probl{display: grid;}
+.probl{grid-template-columns: repeat(3, 1fr);
+background-color: #f1f1f1;
+grid-gap: 1em;
+grid-auto-rows: 100px;
+width: 100%;
+ height: 35%;	
+ margin: 0 0px;
+ vertical-align: bottom;
+ text-align: sub;
+  border: 0px solid #000;
+}
+
+
+

@@ -1,0 +1,638 @@
+@media (max-width: 1024px)
+{
+	body{
+
+	}
+.containe-1{
+	width: 100.0%;
+ height: 15.5%;
+}
+.containe-2{
+	width: 100%;
+ height: 30%;
+ background: url("../img/snowflake.png")  no-repeat -10% -800%;
+}
+.ceis3{
+	 width: 90%;
+	 height: 200px;
+	   border: 0px solid #000;
+	   text-align: center;
+	  
+padding-left: 150px;
+}
+
+.logo14{
+font-style: normal;
+font-weight: 3000;
+font-size: 880%;
+line-height: 2;
+font-family: 'NeueMachina-Ultrabold';
+
+line-height: 80.6%;
+text-align: center;
+letter-spacing: -0.03em;
+}
+.logo13{
+font-style: normal;
+font-weight: 3000;
+font-size: 380%;
+line-height: 2;
+font-family: 'NeueMachina-Ultrabold';
+
+line-height: 80.6%;
+text-align: center;
+letter-spacing: -0.03em;
+}
+.containe-3{
+	width: 100%;
+ height: 25%;
+ background: url("../img/eternity.png")  no-repeat 100% 50%;
+}
+.logo1{
+font-style: normal;
+font-weight: 3000;
+font-size: 300%;
+line-height: 2;
+font-family: 'NeueMachina-Regular';
+line-height: 80.6%;
+text-align: left;
+letter-spacing: -0.03em;
+color: #383f67;
+}
+.logo2{
+
+font-style: normal;
+font-weight: 500;
+font-size: 200%;
+line-height: 80.6%;
+padding-top: 50px;
+}
+.ceis2{
+	 width: 150%;
+	 height: 100px;
+	   border: 0px solid #000;
+	  
+padding-left: 60px;
+}
+.containe-4{
+	width: 100%;
+ height: 30%;
+}
+
+.logo11{
+font-style: normal;
+font-weight: 3000;
+font-size: 300%;
+line-height: 2;
+font-family: 'NeueMachina-Regular';
+color: #383f67;
+line-height: 80.6%;
+text-align: left;
+letter-spacing: -0.03em;
+}
+.logo22{
+
+font-style: normal;
+font-weight: 1000;
+font-size: 200%;
+line-height: 100.6%;
+text-align: left;
+}
+.ceis1{
+	 width: 155%;
+	 height: 150px;
+	   border: 0px solid #000;	  	
+padding-left: 100px;
+padding-top: 50px;
+}
+
+.containe-5{
+	width: 100.0%;
+ height: 15.5%;
+}
+
+.probl{
+	width: 100%;
+ height: 10%;	
+}
+.txtfin
+{
+	font-family: 'NeueMachina-Light';
+	font-size: 250%;
+	padding-left: 200px;
+	width: 200%;
+	border: 0px solid #000;
+}
+
+
+
+
+
+@media (max-width: 768px)
+{
+	body{
+
+	}
+.containe-1{
+	width: 126.0%;
+ height: 19.5%;
+}
+.containe-2{
+	width: 100%;
+ height: 30%;
+ background: url("../img/snowflake.png")  no-repeat -10% -800%;
+}
+.ceis3{
+	 width: 90%;
+	 height: 200px;
+	   border: 0px solid #000;
+	   text-align: center;
+	  
+padding-left: 120px;
+}
+
+.logo14{
+font-style: normal;
+font-weight: 3000;
+font-size: 880%;
+line-height: 2;
+font-family: 'NeueMachina-Ultrabold';
+
+line-height: 80.6%;
+text-align: center;
+letter-spacing: -0.03em;
+}
+.logo13{
+font-style: normal;
+font-weight: 3000;
+font-size: 380%;
+line-height: 2;
+font-family: 'NeueMachina-Ultrabold';
+
+line-height: 80.6%;
+text-align: center;
+letter-spacing: -0.03em;
+}
+.containe-3{
+	width: 125.0%;
+ height: 35%;
+ background: url("../img/eternity.png")  no-repeat 100% 50%;
+}
+.logo1{
+font-style: normal;
+font-weight: 3000;
+font-size: 300%;
+line-height: 2;
+font-family: 'NeueMachina-Regular';
+line-height: 80.6%;
+text-align: left;
+letter-spacing: -0.03em;
+color: #383f67;
+}
+.logo2{
+
+font-style: normal;
+font-weight: 500;
+font-size: 200%;
+line-height: 80.6%;
+padding-top: 50px;
+}
+.ceis2{
+	 width: 160%;
+	 height: 100px;
+	   border: 0px solid #000;
+	  
+padding-left: 60px;
+}
+.containe-4{
+	width: 100%;
+ height: 40%;
+}
+
+.logo11{
+font-style: normal;
+font-weight: 3000;
+font-size: 300%;
+line-height: 2;
+font-family: 'NeueMachina-Regular';
+color: #383f67;
+line-height: 80.6%;
+text-align: left;
+letter-spacing: -0.03em;
+}
+.logo22{
+
+font-style: normal;
+font-weight: 1000;
+font-size: 200%;
+line-height: 100.6%;
+text-align: left;
+}
+.ceis1{
+	 width: 155%;
+	 height: 150px;
+	   border: 0px solid #000;	  	
+padding-left: 170px;
+padding-top: 50px;
+}
+
+.containe-5{
+	width: 126.0%;
+ height: 19.5%;
+}
+
+.probl{
+	width: 100%;
+ height: 10%;	
+}
+.txtfin
+{
+	font-family: 'NeueMachina-Light';
+	font-size: 250%;
+	padding-left: 170px;
+	width: 200%;
+	border: 0px solid #000;
+}
+
+@media (max-width: 414px)
+{
+	body{
+
+	}
+.containe-1{
+	width: 280.0%;
+ height: 30.5%;
+}
+.containe-2{
+	width: 100%;
+ height: 50%;
+ background: url("../img/snowflake.png")  no-repeat -100% -900%;
+}
+.ceis3{
+	 width: 100%;
+	 height: 200px;
+	   border: 0px solid #000;
+	   text-align: center;
+	  
+padding-left: 130px;
+}
+
+.logo14{
+font-style: normal;
+font-weight: 3000;
+font-size: 1000%;
+line-height: 2;
+font-family: 'NeueMachina-Ultrabold';
+
+line-height: 80.6%;
+text-align: center;
+letter-spacing: -0.03em;
+}
+.logo13{
+font-style: normal;
+font-weight: 3000;
+font-size: 400%;
+line-height: 2;
+font-family: 'NeueMachina-Ultrabold';
+
+line-height: 80.6%;
+text-align: center;
+letter-spacing: -0.03em;
+}
+.containe-3{
+	width: 276.0%;
+ height: 65%;
+ background: url("../img/eternity.png")  no-repeat 100% 50%;
+}
+.logo1{
+font-style: normal;
+font-weight: 3000;
+font-size: 400%;
+line-height: 2;
+font-family: 'NeueMachina-Regular';
+line-height: 80.6%;
+text-align: left;
+letter-spacing: -0.03em;
+color: #383f67;
+}
+.logo2{
+
+font-style: normal;
+font-weight: 500;
+font-size: 300%;
+line-height: 80.6%;
+padding-top: 50px;
+}
+.ceis2{
+	 width: 160%;
+	 height: 100px;
+	   border: 0px solid #000;
+	  
+padding-left: 60px;
+}
+.containe-4{
+	width: 100%;
+ height: 65%;
+}
+
+.logo11{
+font-style: normal;
+font-weight: 3000;
+font-size: 400%;
+line-height: 2;
+font-family: 'NeueMachina-Regular';
+color: #383f67;
+line-height: 80.6%;
+text-align: left;
+letter-spacing: -0.03em;
+}
+.logo22{
+
+font-style: normal;
+font-weight: 1000;
+font-size: 300%;
+line-height: 100.6%;
+text-align: left;
+}
+.ceis1{
+	 width: 155%;
+	 height: 150px;
+	   border: 0px solid #000;	  	
+padding-left: 170px;
+padding-top: 50px;
+}
+
+.containe-5{
+width: 280.0%;
+ height: 30.5%;
+}
+
+.probl{
+	width: 100%;
+ height: 40%;	
+}
+.txtfin
+{
+	font-family: 'NeueMachina-Light';
+	font-size: 300%;
+	padding-left: 190px;
+	width: 200%;
+	border: 0px solid #000;
+}
+
+
+
+
+
+
+@media (max-width: 375px)
+{
+	body{
+
+	}
+.containe-1{
+	width: 270.0%;
+ height: 25.5%;
+}
+.containe-2{
+	width: 100%;
+ height: 50%;
+ background: url("../img/snowflake.png")  no-repeat -100% -900%;
+}
+.ceis3{
+	 width: 90%;
+	 height: 200px;
+	   border: 0px solid #000;
+	   text-align: center;
+	  
+padding-left: 120px;
+}
+
+.logo14{
+font-style: normal;
+font-weight: 3000;
+font-size: 880%;
+line-height: 2;
+font-family: 'NeueMachina-Ultrabold';
+
+line-height: 80.6%;
+text-align: center;
+letter-spacing: -0.03em;
+}
+.logo13{
+font-style: normal;
+font-weight: 3000;
+font-size: 380%;
+line-height: 2;
+font-family: 'NeueMachina-Ultrabold';
+
+line-height: 80.6%;
+text-align: center;
+letter-spacing: -0.03em;
+}
+.containe-3{
+	width: 266.0%;
+ height: 65%;
+ background: url("../img/eternity.png")  no-repeat 100% 50%;
+}
+.logo1{
+font-style: normal;
+font-weight: 3000;
+font-size: 300%;
+line-height: 2;
+font-family: 'NeueMachina-Regular';
+line-height: 80.6%;
+text-align: left;
+letter-spacing: -0.03em;
+color: #383f67;
+}
+.logo2{
+
+font-style: normal;
+font-weight: 500;
+font-size: 200%;
+line-height: 80.6%;
+padding-top: 50px;
+}
+.ceis2{
+	 width: 160%;
+	 height: 100px;
+	   border: 0px solid #000;
+	  
+padding-left: 60px;
+}
+.containe-4{
+	width: 100%;
+ height: 65%;
+}
+
+.logo11{
+font-style: normal;
+font-weight: 3000;
+font-size: 300%;
+line-height: 2;
+font-family: 'NeueMachina-Regular';
+color: #383f67;
+line-height: 80.6%;
+text-align: left;
+letter-spacing: -0.03em;
+}
+.logo22{
+
+font-style: normal;
+font-weight: 1000;
+font-size: 200%;
+line-height: 100.6%;
+text-align: left;
+}
+.ceis1{
+	 width: 155%;
+	 height: 150px;
+	   border: 0px solid #000;	  	
+padding-left: 170px;
+padding-top: 50px;
+}
+
+.containe-5{
+		width: 270.0%;
+ height: 21.5%;
+}
+
+.probl{
+	width: 100%;
+ height: 44%;	
+}
+.txtfin
+{
+	font-family: 'NeueMachina-Light';
+	font-size: 250%;
+	padding-left: 170px;
+	width: 200%;
+	border: 0px solid #000;
+}
+
+@media (max-width: 320px)
+{
+	body{
+
+	}
+.containe-1{
+	width: 305.0%;
+ height: 35.5%;
+}
+.containe-2{
+	width: 100%;
+ height: 50%;
+ background: url("../img/snowflake.png")  no-repeat -100% -900%;
+}
+.ceis3{
+	 width: 90%;
+	 height: 200px;
+	   border: 0px solid #000;
+	   text-align: center;
+	  
+padding-left: 120px;
+}
+
+.logo14{
+font-style: normal;
+font-weight: 3000;
+font-size: 880%;
+line-height: 2;
+font-family: 'NeueMachina-Ultrabold';
+
+line-height: 80.6%;
+text-align: center;
+letter-spacing: -0.03em;
+}
+.logo13{
+font-style: normal;
+font-weight: 3000;
+font-size: 380%;
+line-height: 2;
+font-family: 'NeueMachina-Ultrabold';
+
+line-height: 80.6%;
+text-align: center;
+letter-spacing: -0.03em;
+}
+.containe-3{
+	width: 306.0%;
+ height: 75%;
+ background: url("../img/eternity.png")  no-repeat 100% 50%;
+}
+.logo1{
+font-style: normal;
+font-weight: 3000;
+font-size: 300%;
+line-height: 2;
+font-family: 'NeueMachina-Regular';
+line-height: 80.6%;
+text-align: left;
+letter-spacing: -0.03em;
+color: #383f67;
+}
+.logo2{
+
+font-style: normal;
+font-weight: 500;
+font-size: 200%;
+line-height: 80.6%;
+padding-top: 50px;
+}
+.ceis2{
+	 width: 160%;
+	 height: 100px;
+	   border: 0px solid #000;
+	  
+padding-left: 60px;
+}
+.containe-4{
+	width: 200%;
+ height: 75%;
+}
+
+.logo11{
+font-style: normal;
+font-weight: 3000;
+font-size: 300%;
+line-height: 2;
+font-family: 'NeueMachina-Regular';
+color: #383f67;
+line-height: 80.6%;
+text-align: left;
+letter-spacing: -0.03em;
+}
+.logo22{
+
+font-style: normal;
+font-weight: 1000;
+font-size: 200%;
+line-height: 100.6%;
+text-align: left;
+}
+.ceis1{
+	 width: 155%;
+	 height: 150px;
+	   border: 0px solid #000;	  	
+padding-left: 170px;
+padding-top: 50px;
+}
+
+.containe-5{
+		width: 305.0%;
+ height: 36.5%;
+}
+
+.probl{
+	width: 100%;
+ height: 41%;	
+}
+.txtfin
+{
+	font-family: 'NeueMachina-Light';
+	font-size: 250%;
+	padding-left: 170px;
+	width: 200%;
+	border: 0px solid #000;
+}
